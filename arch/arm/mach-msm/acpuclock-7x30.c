@@ -104,7 +104,7 @@ static struct pll pll2_tbl[] = {
 	{  88, 1, 3, 0 }, /* 1708 MHz */
 	{  93, 1, 3, 0 }, /* 1804 MHz */
 	{  98, 1, 3, 0 }, /* 1900 MHz */
-	{ 103, 1, 3, 0 }, /* 2016 MHz */
+ /*	{ 103, 1, 3, 0 },  2016 MHz */
 };
 
 /* Use negative numbers for sources that can't be enabled/disabled */
