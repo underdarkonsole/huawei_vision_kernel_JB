@@ -16,4 +16,4 @@ i/o :
 +sio
 +vr
 
-OC => upto 1.901 GHZ
+OC => upto 2.016 GHZ
